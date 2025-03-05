@@ -1,0 +1,106 @@
+{
+  "cinemas": [
+    {
+      "name": "Cinesa Projections",
+      "type": "cinema",
+      "layout": {
+        "sala1": {
+          "label": "Sala 1",
+          "rows": "15",
+          "columns": "20"
+        },
+        "sala2": {
+          "label": "Sala 2",
+          "rows": "18",
+          "columns": "16"
+        },
+        "sala3": {
+          "label": "Sala 3",
+          "rows": "16",
+          "columns": "8"
+        },
+        "sala4": {
+          "label": "Sala 4",
+          "rows": "8",
+          "columns": "8"
+        },
+        "sala5": {
+          "label": "Sala 5",
+          "rows": "12",
+          "columns": "10"
+        }
+      }
+    },
+    {
+      "name": "Cinema Metropol",
+      "type": "cinema",
+      "layout": {
+        "sala1": {
+          "label": "Sala 1",
+          "rows": "10",
+          "columns": "15"
+        },
+        "sala2": {
+          "label": "Sala 2",
+          "rows": "12",
+          "columns": "18"
+        },
+        "sala3": {
+          "label": "Sala 3",
+          "rows": "14",
+          "columns": "20"
+        }
+      }
+    },
+    {
+      "name": "Grand Cinema",
+      "type": "cinema",
+      "layout": {
+        "sala1": {
+          "label": "Sala 1",
+          "rows": "20",
+          "columns": "25"
+        },
+        "sala2": {
+          "label": "Sala 2",
+          "rows": "18",
+          "columns": "22"
+        },
+        "sala3": {
+          "label": "Sala 3",
+          "rows": "16",
+          "columns": "20"
+        },
+        "sala4": {
+          "label": "Sala 4",
+          "rows": "14",
+          "columns": "18"
+        }
+      }
+    }
+  ],
+  "theaters": [
+    {
+      "name": "Royal Theater",
+      "type": "theater",
+      "layout": {
+        "sala1": {
+          "label": "Sala 1",
+          "rows": "15",
+          "columns": "20"
+        }
+      }
+    },
+    {
+      "name": "Theater of the Opera",
+      "type": "theater",
+      "layout": {
+        "sala1": {
+          "label": "Sala 1",
+          "rows": "10",
+          "columns": "15"
+        }
+      }
+    }
+  ]
+}
